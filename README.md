@@ -1,15 +1,49 @@
-# Hi there 👋, I'm Kaushal
+<h1 align="center">Kaushal</h1>
+
+<p align="center"><em>AI/ML engineer · Mumbai · formerly a physicist, still asking "why?"</em></p>
 
 <p align="center">
-  <a href="https://kaushalwalker.github.io">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/kaushaljambhle">LinkedIn</a> -
+  <a href="https://kaushalwalker.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kaushaljambhle">LinkedIn</a> ·
   <a href="mailto:kaushal.jambhle@gmail.com">Email</a>
 </p>
 
-I'm an AI/ML engineer based in Mumbai. I came into machine learning through Physics (B.Sc., University of Mumbai), so I like understanding why a model works, not just whether it runs.
+---
 
-I build end-to-end AI/ML projects independently, and everything pinned below is something I designed and shipped myself.
+<p align="center"><em>"That the powerful play goes on,<br>and you may contribute a verse."</em><br>— Walt Whitman</p>
 
-Curious by nature, I enjoy learning by building, breaking things, and then fixing them (usually in that order).
+---
 
-Always open to conversations around AI/ML, data science, and opportunities to contribute to real-world problems.
+### I. The Beginning
+
+I came to machine learning by way of Physics,
+where I was taught that an answer without a reason is only a coincidence.
+So I don't stop when a model runs.
+I stop when I understand *why* it runs.
+
+### II. The Method
+
+I learn by building, then breaking, then fixing, usually in that order.
+Every project pinned below, I designed and shipped myself.
+No one handed me a syllabus. I wrote my own,
+one commit at a time.
+
+### III. The Creed
+
+> *Carpe diem.* Seize the day. Then deploy it.
+
+Thoreau wished to "live deliberately."
+I try to code that way: with intention, with curiosity,
+and with a healthy fear of unhandled exceptions.
+
+### IV. The Invitation
+
+The world has real problems, and they deserve good questions.
+If you're working on AI, ML, or data science,
+or just want to talk about why things work, I'd love to hear from you.
+
+<p align="center"><em>Stand on your desk. Look at the data differently.</em></p>
+
+---
+
+<p align="center"><sub>Currently building, breaking, and fixing. 🌱</sub></p>
