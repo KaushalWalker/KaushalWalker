@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kaushalwalker.github.io">Portfolio</a> -
-  <a href="www.linkedin.com/in/kaushaljambhle">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/kaushaljambhle">LinkedIn</a> -
   <a href="mailto:kaushal.jambhle@gmail.com">Email</a>
 </p>
 
